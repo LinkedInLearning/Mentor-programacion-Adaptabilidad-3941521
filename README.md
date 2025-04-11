@@ -47,7 +47,6 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-thumbnail-url]:https://media.licdn.com/dms/image/v2/D4E0DAQHtjwZPOydZkQ/learning-public-crop_675_1200/B4EZYkOquYHMAg-/0/1744364547326?e=2147483647&v=beta&t=kXFjidoT-4UYBPNEZDJo131aNWH-F_uQWGi267DgSdY
 
 [1]: # (End of ES-Instruction ###############################################################################################)
-
